@@ -1,0 +1,313 @@
+{
+    "fleets": [
+        {
+            "id": "6",
+            "type": "AC",
+            "layout": "2-2",
+            "last_seat": "1",
+            "total_seat": "36",
+            "seat_number": "A1,A2,A3,A4,B1,B2,B3,B4,C1,C2,C3,C4,D1,D2,D3,D4,E1,E2,E3,E4,F1,F2,F3,F4,G1,G2,G3,G4,H1,H2,H3,H4,I1,I2,I3,I4,Z",
+            "status": "1",
+            "luggage_service": "1",
+            "created_at": "2022-06-27 14:52:27",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        },
+        {
+            "id": "7",
+            "type": "BUSINESS-CLASS",
+            "layout": "1-1",
+            "last_seat": "1",
+            "total_seat": "22",
+            "seat_number": "A1,A2,B1,B2,C1,C2,D1,D2,E1,E2,F1,F2,G1,G2,H1,H2,I1,I2,J1,J2,K1,K2,Z",
+            "status": "1",
+            "luggage_service": "1",
+            "created_at": "2022-06-27 14:53:06",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        },
+        {
+            "id": "8",
+            "type": "NON-AC",
+            "layout": "2-2",
+            "last_seat": "1",
+            "total_seat": "40",
+            "seat_number": "A1,A2,A3,A4,B1,B2,B3,B4,C1,C2,C3,C4,D1,D2,D3,D4,E1,E2,E3,E4,F1,F2,F3,F4,G1,G2,G3,G4,H1,H2,H3,H4,I1,I2,I3,I4,J1,J2,J3,J4,Z",
+            "status": "1",
+            "luggage_service": "1",
+            "created_at": "2022-06-27 14:53:25",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        },
+        {
+            "id": "9",
+            "type": "LOCAL",
+            "layout": "2-2",
+            "last_seat": "0",
+            "total_seat": "42",
+            "seat_number": "A1,A2,A3,A4,B1,B2,B3,B4,C1,C2,C3,C4,D1,D2,D3,D4,E1,E2,E3,E4,F1,F2,F3,F4,G1,G2,G3,G4,H1,H2,H3,H4,I1,I2,I3,I4,J1,J2,J3,J4,K1,K2",
+            "status": "1",
+            "luggage_service": "1",
+            "created_at": "2022-06-27 14:54:19",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        },
+        {
+            "id": "10",
+            "type": "WORLD-CLASS",
+            "layout": "2-1",
+            "last_seat": "1",
+            "total_seat": "26",
+            "seat_number": "A1,A2,A3,B1,B2,B3,C1,C2,C3,D1,D2,D3,E1,E2,E3,F1,F2,F3,G1,G2,G3,H1,H2,H3,I1,I2,Z",
+            "status": "1",
+            "luggage_service": "1",
+            "created_at": "2022-06-27 14:54:56",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        }
+    ],
+    "vehicles": [
+        {
+            "id": "11",
+            "reg_no": "AC-R-123",
+            "fleet_id": "6",
+            "engine_no": "AC-E-123",
+            "model_no": "AC-M-123",
+            "chasis_no": "AC-C-123",
+            "woner": "LOREM IPSUM",
+            "woner_mobile": "12111111111",
+            "company": "HANIF",
+            "status": "1",
+            "assign": "0",
+            "created_at": "2022-06-27 15:15:46",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "12",
+            "reg_no": "BUSINESS-R-123",
+            "fleet_id": "7",
+            "engine_no": "BUSINESS-E-123",
+            "model_no": "BUSINESS-M-123",
+            "chasis_no": "BUSINESS-C-123",
+            "woner": "LOREM IPSUM",
+            "woner_mobile": "13111111111",
+            "company": "SHYAMOLI",
+            "status": "1",
+            "assign": "0",
+            "created_at": "2022-06-27 15:24:28",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "13",
+            "reg_no": "NON-AC-R-123",
+            "fleet_id": "8",
+            "engine_no": "NON-AC-E-123",
+            "model_no": "NON-AC-M-123",
+            "chasis_no": "NON-AC-C-123",
+            "woner": "LOREM IPSUM",
+            "woner_mobile": "14111111111",
+            "company": "SONYA",
+            "status": "1",
+            "assign": "0",
+            "created_at": "2022-06-27 15:26:58",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "14",
+            "reg_no": "LOCAL-R-123",
+            "fleet_id": "9",
+            "engine_no": "LOCAL-E-123",
+            "model_no": "LOCAL-M-123",
+            "chasis_no": "LOCAL-C-123",
+            "woner": "LOREM IPSUM",
+            "woner_mobile": "15111111111",
+            "company": "SOUDIA",
+            "status": "1",
+            "assign": "0",
+            "created_at": "2022-06-27 15:28:51",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "15",
+            "reg_no": "WORLD-CLASS-R-123",
+            "fleet_id": "10",
+            "engine_no": "WORLD-CLASS-E-123",
+            "model_no": "WORLD-CLASS-M-123",
+            "chasis_no": "WORLD-CLASS-C-123",
+            "woner": "LOREM IPSUM",
+            "woner_mobile": "16111111111",
+            "company": "NIRALA",
+            "status": "1",
+            "assign": "0",
+            "created_at": "2022-06-27 15:30:52",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        }
+    ],
+    "vehicalimages": [
+        {
+            "id": "33",
+            "vehicle_id": "11",
+            "img_path": "image\/bus\/1656321346_db2b1df23c707702e351.jpg",
+            "created_at": "2022-06-27 15:15:46",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "34",
+            "vehicle_id": "11",
+            "img_path": "image\/bus\/1656321346_91026eea6de744cf461a.jpg",
+            "created_at": "2022-06-27 15:15:46",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "35",
+            "vehicle_id": "11",
+            "img_path": "image\/bus\/1656321346_962b3736fc8f398b236a.jpg",
+            "created_at": "2022-06-27 15:15:46",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "36",
+            "vehicle_id": "11",
+            "img_path": "image\/bus\/1656321346_87dde64083152dc69cce.jpg",
+            "created_at": "2022-06-27 15:15:46",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "37",
+            "vehicle_id": "12",
+            "img_path": "image\/bus\/1656321868_424e379dd91ec7b774e1.jpg",
+            "created_at": "2022-06-27 15:24:28",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "38",
+            "vehicle_id": "12",
+            "img_path": "image\/bus\/1656321868_d902830c252d1f3a1f8b.jpg",
+            "created_at": "2022-06-27 15:24:28",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "39",
+            "vehicle_id": "12",
+            "img_path": "image\/bus\/1656321868_f854791a51f59210d988.jpg",
+            "created_at": "2022-06-27 15:24:28",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "40",
+            "vehicle_id": "12",
+            "img_path": "image\/bus\/1656321868_28d7d7ca03fb92b2b898.jpg",
+            "created_at": "2022-06-27 15:24:28",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "41",
+            "vehicle_id": "13",
+            "img_path": "image\/bus\/1656322018_98eb5c9f8d9262e60577.jpg",
+            "created_at": "2022-06-27 15:26:58",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "42",
+            "vehicle_id": "13",
+            "img_path": "image\/bus\/1656322018_945930f801424768192e.jpg",
+            "created_at": "2022-06-27 15:26:58",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "43",
+            "vehicle_id": "13",
+            "img_path": "image\/bus\/1656322018_c935c196284f0b54736a.jpg",
+            "created_at": "2022-06-27 15:26:58",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "44",
+            "vehicle_id": "13",
+            "img_path": "image\/bus\/1656322018_ba0d9b524d334fc974dc.jpg",
+            "created_at": "2022-06-27 15:26:58",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "45",
+            "vehicle_id": "14",
+            "img_path": "image\/bus\/1656322131_6350dce811c2350ef182.jpg",
+            "created_at": "2022-06-27 15:28:51",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "46",
+            "vehicle_id": "14",
+            "img_path": "image\/bus\/1656322131_716dfc57e01967a3977f.jpg",
+            "created_at": "2022-06-27 15:28:51",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "47",
+            "vehicle_id": "14",
+            "img_path": "image\/bus\/1656322131_ddee27579d07e6f4792a.jpg",
+            "created_at": "2022-06-27 15:28:51",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "48",
+            "vehicle_id": "14",
+            "img_path": "image\/bus\/1656322131_e6628fc7d4d7e7e54fb4.jpg",
+            "created_at": "2022-06-27 15:28:51",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "49",
+            "vehicle_id": "15",
+            "img_path": "image\/bus\/1656322252_1e2250e5f3d5f6327208.jpg",
+            "created_at": "2022-06-27 15:30:52",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "50",
+            "vehicle_id": "15",
+            "img_path": "image\/bus\/1656322252_42f282d07ca98dfcbdb7.jpg",
+            "created_at": "2022-06-27 15:30:52",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "51",
+            "vehicle_id": "15",
+            "img_path": "image\/bus\/1656322252_b5c17ac2a8eaaa34650e.jpg",
+            "created_at": "2022-06-27 15:30:52",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        },
+        {
+            "id": "52",
+            "vehicle_id": "15",
+            "img_path": "image\/bus\/1656322252_3a763ebd91ade65502dc.jpg",
+            "created_at": "2022-06-27 15:30:52",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        }
+    ]
+}

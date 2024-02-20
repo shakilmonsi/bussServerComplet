@@ -1,0 +1,249 @@
+{
+    "paymethods": [
+        {
+            "id": "1",
+            "name": "Cash",
+            "status": "1",
+            "created_at": "2022-02-01 16:19:52",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "2",
+            "name": "Bank",
+            "status": "1",
+            "created_at": "2022-02-01 16:20:01",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "3",
+            "name": "Eft",
+            "status": "1",
+            "created_at": "2022-02-01 16:20:11",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "paymentgateways": [
+        {
+            "id": "1",
+            "name": "paypal",
+            "status": "1",
+            "created_at": "2022-01-25 14:17:07",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "2",
+            "name": "paystack",
+            "status": "1",
+            "created_at": "2022-01-25 15:00:52",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "3",
+            "name": "stripe",
+            "status": "1",
+            "created_at": "2022-01-25 15:21:40",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "4",
+            "name": "razorpay",
+            "status": "1",
+            "created_at": "2022-01-25 15:23:00",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "5",
+            "name": "sslcommerz",
+            "status": "1",
+            "created_at": "2022-01-25 15:23:00",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "6",
+            "name": "flutterwave",
+            "status": "1",
+            "created_at": "2022-01-25 15:23:00",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "stripes": [
+        {
+            "id": "1",
+            "test_p_kye": "pk_test_51KOFikFc0lmoA84nCaAiNKJ2bpbxLkirsH7mzjy4SxPPDAVDpz5kL4Vdu4UvXuEalx4UyhF0kx5Go4YSjHSaiBQK00UFpxKNWl",
+            "test_s_kye": "sk_test_51KOFikFc0lmoA84nRjf7U2V8RPgslalbjNQ8iFbV2kXDBhn5jlhAhQRlJMmPVxq4cDjVLl3L4Vlgd0dzG0Pw4bVp00pagMFqJh",
+            "live_p_kye": "pk_test_51KOFikFc0lmoA84nCaAiNKJ2bpbxLkirsH7mzjy4SxPPDAVDpz5kL4Vdu4UvXuEalx4UyhF0kx5Go4YSjHSaiBQK00UFpxKNWl",
+            "live_s_kye": "sk_test_51KOFikFc0lmoA84nRjf7U2V8RPgslalbjNQ8iFbV2kXDBhn5jlhAhQRlJMmPVxq4cDjVLl3L4Vlgd0dzG0Pw4bVp00pagMFqJh",
+            "environment": "1",
+            "created_at": "2022-02-01 16:53:53",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "razors": [
+        {
+            "id": "1",
+            "test_s_kye": "rzp_test_nv8ESySdZ6Gaqq",
+            "live_s_kye": "rzp_test_nv8ESySdZ6Gaqq",
+            "environment": "0",
+            "created_at": "2022-02-01 11:41:07",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "paypals": [
+        {
+            "id": "1",
+            "test_c_kye": "AXmEOzF1axI9l3VAyq-viSusE32eyUsnzwjiPpbQUHnpGNKN0EohDuLTPnSurb05itzji3h9Pr3Pkk4W",
+            "test_s_kye": "EHbAitoud-ZvwFb0Dk3Hu8p2p3VOpiL5sbZJNBbAYZHQkZy1BYO3tRhUsWtdWQs2dcN8KSItFDX0bjKE",
+            "live_c_kye": "AXmEOzF1axI9l3VAyq-viSusE32eyUsnzwjiPpbQUHnpGNKN0EohDuLTPnSurb05itzji3h9Pr3Pkk4W",
+            "live_s_kye": "EHbAitoud-ZvwFb0Dk3Hu8p2p3VOpiL5sbZJNBbAYZHQkZy1BYO3tRhUsWtdWQs2dcN8KSItFDX0bjKE",
+            "environment": "0",
+            "email": "m@m.com",
+            "marchantid": "MVJBF4BQAU6ZN",
+            "created_at": "2022-02-01 18:24:32",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "paystacks": [
+        {
+            "id": "1",
+            "test_p_kye": "pk_test_328da55755b88b1aaed96c5cda215b2fd887edb9",
+            "test_s_kye": "sk_test_71353c2613675acb967ea532f4c4c8105ea175b8",
+            "live_p_kye": "pk_test_328da55755b88b1aaed96c5cda215b2fd887edb9",
+            "live_s_kye": "sk_test_71353c2613675acb967ea532f4c4c8105ea175b8",
+            "environment": "1",
+            "created_at": "2022-01-26 13:26:53",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "paymethodtotals": [
+        {
+            "id": "88",
+            "booking_id": "TB8E4G57FO",
+            "paymethod_id": "1",
+            "amount": "983",
+            "detail": "Lorme Ipsum Lorme",
+            "trip_id": "23",
+            "subtrip_id": "38",
+            "user_id": "1",
+            "created_at": "2022-06-28 15:08:21",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "89",
+            "booking_id": "TBFKS8YEBW",
+            "paymethod_id": "1",
+            "amount": "500",
+            "detail": "Lorme Ipsum Lorme",
+            "trip_id": "23",
+            "subtrip_id": "38",
+            "user_id": "1",
+            "created_at": "2022-06-28 15:15:21",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "90",
+            "booking_id": "TBJ3D2RY0P",
+            "paymethod_id": "1",
+            "amount": "896",
+            "detail": "Lorme Ipsum Lorme",
+            "trip_id": "24",
+            "subtrip_id": "41",
+            "user_id": "1",
+            "created_at": "2022-06-28 15:16:50",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "91",
+            "booking_id": "TBNYFQET3S",
+            "paymethod_id": "1",
+            "amount": "600",
+            "detail": "",
+            "trip_id": "25",
+            "subtrip_id": "43",
+            "user_id": "1",
+            "created_at": "2022-06-28 15:17:58",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "92",
+            "booking_id": "TB76DFM1CA",
+            "paymethod_id": "1",
+            "amount": "500",
+            "detail": "Lorme Ipsum Lorme",
+            "trip_id": "24",
+            "subtrip_id": "40",
+            "user_id": "1",
+            "created_at": "2022-06-28 15:19:44",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "93",
+            "booking_id": "TBXT8KPHV2",
+            "paymethod_id": "1",
+            "amount": "896",
+            "detail": "Lorme Ipsum Lorme",
+            "trip_id": "24",
+            "subtrip_id": "41",
+            "user_id": "1",
+            "created_at": "2022-06-28 15:20:54",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "94",
+            "booking_id": "TBA9X180HU",
+            "paymethod_id": "1",
+            "amount": "1008",
+            "detail": "Lorme Ipsum Lorme",
+            "trip_id": "23",
+            "subtrip_id": "38",
+            "user_id": "1",
+            "created_at": "2022-06-28 15:22:26",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "95",
+            "booking_id": "TBA9X180HU",
+            "paymethod_id": "1",
+            "amount": "100",
+            "detail": "Lorme Ipsum Lorme refund",
+            "trip_id": "23",
+            "subtrip_id": "38",
+            "user_id": "1",
+            "created_at": "2022-06-28 15:23:04",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "96",
+            "booking_id": "TBXT8KPHV2",
+            "paymethod_id": "1",
+            "amount": "50",
+            "detail": "Lorme Ipsum Lorme cancel",
+            "trip_id": "24",
+            "subtrip_id": "41",
+            "user_id": "1",
+            "created_at": "2022-06-28 15:23:32",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ]
+}

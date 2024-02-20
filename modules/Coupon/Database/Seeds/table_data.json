@@ -1,0 +1,29 @@
+{
+    "coupons": [
+        {
+            "id": "6",
+            "subtrip_id": "38",
+            "code": "BUS1656332357",
+            "start_date": "2022-06-01",
+            "end_date": "2029-01-01",
+            "discount": "25",
+            "condition": "Lorem Ipsum ",
+            "created_at": "2022-06-27 18:20:06",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        }
+    ],
+    "coupondiscounts": [
+        {
+            "id": "4",
+            "code": "BUS1656332357",
+            "coupon_id": "6",
+            "booking_id": "TB8E4G57FO",
+            "subtrip_id": "38",
+            "amount": "25",
+            "created_at": "2022-06-28 15:08:21",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "section_one_home": [
+        {
+            "id": "4",
+            "title": "BOOK YOUR BUS TICKET ",
+            "sub_title": "Choose Your Destinations And Dates To Reserve A Ticket ",
+            "button_text": "Book Now",
+            "image": "image\/frontend\/1656311237_5a3bdfeb6b04219223de.jpg",
+            "created_at": "2022-06-27 06:27:17",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "section_two_work_flow": [
+        {
+            "id": "3",
+            "title": "How It Works ",
+            "sub_title": "Book Cheap Trip On Your Favourite Buses ",
+            "created_at": "2021-11-06 16:39:55",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "section_two_detail": [
+        {
+            "id": "4",
+            "title": "Book Online",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "button_text": "Read More",
+            "image": "image\/frontend\/1656312863_36111e139f2e271f49ae.png",
+            "created_at": "2022-06-27 06:55:00",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "5",
+            "title": "Payment",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "button_text": "Read More",
+            "image": "image\/frontend\/1656312982_4162a886de1c6071373d.png",
+            "created_at": "2022-06-27 06:56:22",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "6",
+            "title": "Get Ticket",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "button_text": "Read More",
+            "image": "image\/frontend\/1656313026_728637e0091e910fceab.png",
+            "created_at": "2022-06-27 06:57:06",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "section_three_heading": [
+        {
+            "id": "1",
+            "title": "this is sub trip ",
+            "sub_title": "this is test ",
+            "created_at": "2021-11-07 11:56:30",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "section_four_comment": [
+        {
+            "id": "1",
+            "title": "Customer Testimonials rr",
+            "sub_title": "Read what our customers have to say about our fleet and services. ter",
+            "created_at": "2021-11-07 11:50:18",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "section_four_detail": [
+        {
+            "id": "11",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "image": "image\/frontend\/1656312470_507a31610b879a560a11.jpg",
+            "person_name": "Carter",
+            "person_detail": "fugiat voluptas ducimus",
+            "serial": "6",
+            "created_at": "2022-06-27 06:47:50",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "12",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "image": "image\/frontend\/1656312485_f85fdb956d920b2e9f73.jpg",
+            "person_name": "Helen",
+            "person_detail": "ad aut molestiae",
+            "serial": "5",
+            "created_at": "2022-06-27 06:48:05",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "13",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "image": "image\/frontend\/1656312498_d4f4fa227513a1c8be6c.jpg",
+            "person_name": "Jordyn",
+            "person_detail": "ipsum qui distinctio",
+            "serial": "7",
+            "created_at": "2022-06-27 06:48:18",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "14",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "image": "image\/frontend\/1656312511_3e377bc7406f338d6fd4.jpg",
+            "person_name": "Jennie",
+            "person_detail": "temporibus ad earum",
+            "serial": "6",
+            "created_at": "2022-06-27 06:48:31",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "15",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "image": "image\/frontend\/1656312526_ea1818ddab2aefe886ac.jpg",
+            "person_name": "Martin",
+            "person_detail": "ipsa totam iure",
+            "serial": "2",
+            "created_at": "2022-06-27 06:48:46",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "16",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "image": "image\/frontend\/1656312539_977d32df652c2a05538c.jpg",
+            "person_name": "Oren",
+            "person_detail": "nulla molestias et",
+            "serial": "5",
+            "created_at": "2022-06-27 06:48:59",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "17",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "image": "image\/frontend\/1656312552_563bd6745369b85caa4d.jpg",
+            "person_name": "Dawson",
+            "person_detail": "ullam quo praesentium",
+            "serial": "6",
+            "created_at": "2022-06-27 06:49:12",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "18",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "image": "image\/frontend\/1656312567_8ed935ef0b22e1827d49.jpg",
+            "person_name": "Colton",
+            "person_detail": "error enim id",
+            "serial": "5",
+            "created_at": "2022-06-27 06:49:27",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "19",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "image": "image\/frontend\/1656312580_29ad0457186cccd5c484.jpg",
+            "person_name": "Leland",
+            "person_detail": "autem eum facilis",
+            "serial": "3",
+            "created_at": "2022-06-27 06:49:40",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "21",
+            "description": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,<\/p>\r\n",
+            "image": "image\/frontend\/1656312593_b42da804665c1456a7fb.jpg",
+            "person_name": "test",
+            "person_detail": "sdfafdf",
+            "serial": "19",
+            "created_at": "2022-06-27 06:49:53",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "section_five_app": [
+        {
+            "id": "1",
+            "image": "image\/frontend\/1656312221_813a7706eedaccfc5be7.png",
+            "title": "Have you tried ourmobile app? ",
+            "sub_title": "World\u2019s leading tour and travels Booking website,Over30,000 packages worldwide. Book travel packages andenjoy your holidays with distinctive experience",
+            "button_one_status": "1",
+            "button_one_link": "https:\/\/www.apple.com\/app-store\/",
+            "button_two_status": "0",
+            "button_two_link": "https:\/\/play.google.com\/store?hl=en_US&gl=US",
+            "created_at": "2022-06-27 06:43:41",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "section_six_blog": [
+        {
+            "id": "1",
+            "title": "Travel Blog",
+            "sub_title": "Book cheap Trio on your favourite Buses",
+            "created_at": "2021-11-07 13:06:43",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "section_seven_subscrib": [
+        {
+            "id": "1",
+            "title": "Never miss an offer",
+            "sub_title": "Subscribe and be the first to receive our exclusive offers",
+            "image": "image\/frontend\/1656311736_484a848874ed9fd60f60.png",
+            "created_at": "2022-06-27 06:35:36",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ]
+}

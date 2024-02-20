@@ -1,0 +1,140 @@
+{
+    "websettings": [
+        {
+            "id": "2",
+            "localize_name": "en",
+            "headerlogo": "image\/websetting\/1655978324_10b0faacf09c0386ba34.png",
+            "favicon": "image\/websetting\/1655899863_3aded0c9a7ae3ee9ae64.jpg",
+            "footerlogo": "image\/websetting\/1656214119_01f101e686c05179a506.png",
+            "logotext": "BUS365",
+            "apptitle": "BUS365",
+            "copyright": "BUS365-All Rights Reserved",
+            "headercolor": "#04aa6b",
+            "footercolor": "#282a35",
+            "bottomfootercolor": "#04aa6b",
+            "buttoncolor": "#04aa6b",
+            "buttoncolorhover": "#016f2f",
+            "buttontextcolor": "#ffffff",
+            "fontfamely": "Varela",
+            "currency": "18",
+            "tax_type": "exclusive",
+            "country": "18",
+            "timezone": "Asia\/Dhaka",
+            "max_ticket": "6",
+            "created_at": "2022-02-10 12:37:03",
+            "updated_at": "2023-01-21 10:11:40",
+            "deleted_at": null
+        }
+    ],
+    "socialmedias": [
+        {
+            "id": "1",
+            "image_path": "image\/social\/1656241155_83eb81e8472e4a40ce18.png",
+            "link": "https:\/\/www.instagram.com\/accounts\/login\/?hl=en",
+            "created_at": "2021-12-18 14:53:04",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "2",
+            "image_path": "image\/social\/1656241168_0122bd4363ea397d30b7.png",
+            "link": "https:\/\/twitter.com\/?lang=en",
+            "created_at": "2021-12-18 14:53:54",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "3",
+            "image_path": "image\/social\/1656241180_eeb2bca4ba4c1265dce9.png",
+            "link": "https:\/\/www.facebook.com\/",
+            "created_at": "2022-03-26 19:04:55",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "4",
+            "image_path": "image\/social\/1656241188_343eccdd9d86058efa9f.png",
+            "link": "https:\/\/www.youtube.com\/",
+            "created_at": "2022-03-26 19:07:56",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ],
+    "footers": [
+        {
+            "id": "1",
+            "contact": "01xxxxxxxxx",
+            "email": "example@example.com",
+            "opentime": "24x7",
+            "address": "lorem ipsume 6th Floor, lorem ipsume, Road , lorem ipsume, City, lorem ipsume Country",
+            "created_at": "2021-12-18 17:00:44",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        }
+    ],
+    "emails": [
+        {
+            "id": "1",
+            "protocol": "smtp",
+            "smtphost": "soft31.bdtask.com",
+            "smtpuser": "bus365@soft31.bdtask.com",
+            "smtppass": "bus365email",
+            "smtpport": "465",
+            "smtpcrypto": "ssl",
+            "created_at": "2022-05-19 14:13:02",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        }
+    ],
+    "subscribes": [
+        {
+            "id": "13",
+            "email": "t1@t.com",
+            "created_at": "2022-06-27 17:22:10",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "14",
+            "email": "t2@t.com",
+            "created_at": "2022-06-27 17:22:19",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "15",
+            "email": "t3@t.com",
+            "created_at": "2022-06-27 17:22:28",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "16",
+            "email": "t4@t.com",
+            "created_at": "2022-06-27 17:22:35",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "17",
+            "email": "t5@t.com",
+            "created_at": "2022-06-27 17:22:43",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "18",
+            "email": "t6@t.com",
+            "created_at": "2022-06-27 17:22:52",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        },
+        {
+            "id": "19",
+            "email": "t7@t.com",
+            "created_at": "2022-06-27 17:23:01",
+            "updated_at": "2023-01-21 10:11:39",
+            "deleted_at": null
+        }
+    ]
+}

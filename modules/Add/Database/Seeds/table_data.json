@@ -1,0 +1,31 @@
+{
+    "adds": [
+        {
+            "id": "1",
+            "image_path": "image\/add\/1656243275_8031ce51369f5d9a2e44.jpg",
+            "pagename": "checkout",
+            "link": "www.test.com",
+            "created_at": "2021-12-18 18:18:16",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        },
+        {
+            "id": "3",
+            "image_path": "image\/add\/1656243290_54a91ec1ebe9ad09ed62.jpg",
+            "pagename": "ticket",
+            "link": "www.test.com.xyz",
+            "created_at": "2021-12-18 18:23:57",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        },
+        {
+            "id": "4",
+            "image_path": "image\/add\/1656243309_69abd52471e8262753f0.jpg",
+            "pagename": "customer",
+            "link": "www.test.com fdfd",
+            "created_at": "2021-12-18 18:45:56",
+            "updated_at": "2023-01-21 10:11:38",
+            "deleted_at": null
+        }
+    ]
+}
